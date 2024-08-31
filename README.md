@@ -1,6 +1,6 @@
 # Evaluation of Open Introduction-Following Large Language Models For Portuguese
 
-### 4.1. Question 1: What is an Apple?
+### Table 2 - Models Evaluation Question 1: What is an Apple?
 
 | Model          | O que é uma maçã?                                                                                      |
 |----------------|--------------------------------------------------------------------------------------------------------|
@@ -23,7 +23,7 @@
 
 ---
 
-### 4.2. Question 2: Brazil’s best soccer player is
+### Table 3 - Models Evaluation Question 2: Brazil’s best soccer player is
 
 | Model          | O melhor jogador de futebol do Brasil é o                                                              |
 |----------------|-------------------------------------------------------------------------------------------------------|
@@ -46,7 +46,7 @@
 
 ---
 
-### 4.3. Question 3: When was World War I?
+### Table 4 - Models Evaluation Question 3: When was World War I?
 
 | Model          | Quando foi a primeira guerra mundial?                                                                 |
 |----------------|-------------------------------------------------------------------------------------------------------|
@@ -69,7 +69,7 @@
 
 ---
 
-### 4.4. Question 4: Explain how gravity works
+### Table 5 - Models Evaluation Question 4: Explain how gravity works
 
 | Model          | Explique como funciona a gravidade                                                                   |
 |----------------|-------------------------------------------------------------------------------------------------------|
